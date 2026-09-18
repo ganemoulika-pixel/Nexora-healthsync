@@ -1,0 +1,6 @@
+{
+  "name": "HealthSync Hospital - Nexora Health System",
+  "description": "Modern hospital management system with EHR, patient scheduling, real-time bed occupancy, pharmacy inventory, billing, virtual consultation, and AI assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
